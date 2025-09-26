@@ -1,1 +1,4 @@
 Docu2
+Linea de texto al docu2
+otra line al docu2
+otra linea mas docu2
